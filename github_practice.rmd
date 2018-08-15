@@ -8,6 +8,7 @@ output: html_document
 This is meant to be some simple practice code for GitHub edits.
 ```{r, rnorm}
 x <- rnorm(1000)
+plot(x, type="h")
 ```
 
 
