@@ -1,0 +1,19 @@
+---
+title: "GitHub - Rnorm"
+author: "David Hillis"
+date: "August 15, 2018"
+output: html_document
+---
+
+This is meant to be some simple practice code for GitHub edits.
+```{r, rnorm}
+x <- rnorm(1000)
+```
+
+
+
+
+
+
+
+
