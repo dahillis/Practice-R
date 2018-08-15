@@ -11,7 +11,11 @@ x <- rnorm(1000)
 hist(x)
 ```
 
-
+Same as above with more detail
+```{r, rnorm}
+x <- rnorm(10000)
+hist(x)
+```
 
 
 
